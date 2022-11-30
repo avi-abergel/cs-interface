@@ -1,0 +1,4 @@
+avi,thursday,24
+tsur,sunday,22
+moshe,tuesday,24
+bar,friday,21
